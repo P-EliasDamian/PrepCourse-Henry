@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Mi primer repositorio modulo 2 prueba
+Elias Pacheco
+Es mi primer repositorio github 
